@@ -1,0 +1,13 @@
+AGENDA
+
+1- Set up the github Repository
+  a) new environment
+     -In my local D drive create a folder called "MLProject01", here all the work willl be done
+     -create a new virtual environment in VS code
+     -creating commit and push readme file to git main branch
+     -create a .gitignore file in github and to make sure we are updating it from local also
+      do a git pull as well 
+  b) setup.py
+     -this is basically packaging our Python program all in one package
+     -create a --init--.py file inside src folder
+  c) requirements.txt
