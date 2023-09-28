@@ -9,5 +9,9 @@ AGENDA
       do a git pull as well 
   b) setup.py
      -this is basically packaging our Python program all in one package
-     -create a --init--.py file inside src folder
   c) requirements.txt
+
+2. Create a src folder and build the package
+   -create a --init--.py file inside src folder
+---------------------------------------------------------
+3. create a components folder within src folder
