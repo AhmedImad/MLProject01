@@ -15,3 +15,4 @@ AGENDA
    -create a --init--.py file inside src folder
 ---------------------------------------------------------
 3. create a components folder within src folder
+4. create logger and exception files
